@@ -30,5 +30,5 @@ In this project I developed a machine learning model to automatically classify d
 
 ## License
 
-Released under [Public](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
+Released under [GPL-3.0 license](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
 
